@@ -33,3 +33,6 @@ then
 	echo "Failure in generating the key"
 	exit 1
 	fi
+
+
+Good commit message
