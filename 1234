@@ -1,7 +1,7 @@
 #!/bin/bash      
 #author		     : Ivie A . Lawani
 #CopyRights      : 
-#Contact         : 
+#Contact         : lawaniivie@gmail.com
 echo "Enter your GitHub Personal Access Token:"
 read token
 #echo $token >token.txt
